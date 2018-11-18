@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : ""
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Achim Ahrens"
+description              : "My website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,27 +101,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Achim Ahrens"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Post-Doc at ESRI"
+  location         : "Dublin, Ireland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      url: mailto:ahrensachim@gmail.com
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/achim-ahrens-5b583014b/"
+    - label: "ESRI"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.esri.ie/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/acahrens"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/aahrens1"
+    - label: "Stata"
+      icon: "fab fa-fw fa-github"
+      url: "https://statalasso.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -153,6 +159,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - img
+  - pdf
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
