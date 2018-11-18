@@ -4,13 +4,15 @@ author_profile: true
 classes: wide
 ---
 
-## PhD thesis
+# Research
+
+My interests include applied econometrics, spatial analysis and statistical learning. I have applied empirical methods to a wide range of topics, including criminology, conflict research and rental markets. 
 
 My PhD thesis titled *Spatial Econometrics and the Lasso Estimator:
 Theory and Applications* explores the linkages between spatial analysis 
-and the Lasso estimator, a well-established regularisation technique.
+and the Lasso estimator, a well-established regularisation technique. The thesis is available [here](https://drive.google.com/file/d/0B6M60b19bJKia01IN1BwU0VscUk/view).
 
-The thesis is available [here](https://drive.google.com/file/d/0B6M60b19bJKia01IN1BwU0VscUk/view).
+Find me on [ideas.repec](https://ideas.repec.org/e/pah173.html) and [Google Scholar](https://scholar.google.co.uk/citations?user=baZlztkAAAAJ).	
 
 ## Peer-reviewed
 
@@ -40,7 +42,3 @@ comparative perspective over 1990-2012.' (with Sean Lyons, under review) [Draft]
 Jointly with Mark E Schaffer and Christian B Hansen, I have developed two Stata packages for regularized regression in Stata named *lassopack* and *pdslasso*. The packages include features intended for prediction, model selection and causal inference.
 
 Please check our website: [The Stata Lasso Page](https://statalasso.github.io/).
-
-## External links	
-
-Find me on [ideas.repec](https://ideas.repec.org/e/pah173.html) and [Google Scholar](https://scholar.google.co.uk/citations?user=baZlztkAAAAJ).	
