@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achim Ahrens on Hugo Apéro</title>
-    <link>https://aahrens1.github.io/mysite_deploy/</link>
+    <link>https://aahrens1.github.io/</link>
     <description>Recent content in Achim Ahrens on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="https://aahrens1.github.io/mysite_deploy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="https://aahrens1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://aahrens1.github.io/mysite_deploy/contact/</link>
+      <link>https://aahrens1.github.io/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/contact/</guid>
+      <guid>https://aahrens1.github.io/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://aahrens1.github.io/mysite_deploy/elements/</link>
+      <link>https://aahrens1.github.io/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/elements/</guid>
+      <guid>https://aahrens1.github.io/elements/</guid>
       <description>test Font Sizes   A A A A A A A A   6rem
 (96px) 5rem
 (80px) 3rem
@@ -36,39 +36,39 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title></title>
-      <link>https://aahrens1.github.io/mysite_deploy/header/</link>
+      <link>https://aahrens1.github.io/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/header/</guid>
+      <guid>https://aahrens1.github.io/header/</guid>
       <description>I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. 🇫🇷
 The page you are reading is based on a markdown file- look in content/about/ to edit. There, look inside the header, main, and sidebar folders to get started building your own &amp;ldquo;about&amp;rdquo; page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://aahrens1.github.io/mysite_deploy/sidebar/</link>
+      <link>https://aahrens1.github.io/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/sidebar/</guid>
+      <guid>https://aahrens1.github.io/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://aahrens1.github.io/mysite_deploy/about/</link>
+      <link>https://aahrens1.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/about/</guid>
+      <guid>https://aahrens1.github.io/about/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Post-Doctoral Researcher and Senior Data Scientist at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the ESRI, Dublin. I hold a PhD in Economics from Heriot-Watt University and an MSc in Economics from University of Edinburgh.
 Research     I have worked on empirical projects in a wide range of fields including housing markets, refugee integration.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://aahrens1.github.io/mysite_deploy/research/</link>
+      <link>https://aahrens1.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/research/</guid>
+      <guid>https://aahrens1.github.io/research/</guid>
       <description>body{ font-size: 13pt; line-height:1.3; }  Selected Publications     For a full list, see Google Scholar
 Current Working Papers     Monopsony at Work
 pystacked:
@@ -80,30 +80,30 @@ Policy Papers     Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartne
     
     <item>
       <title>License</title>
-      <link>https://aahrens1.github.io/mysite_deploy/license/</link>
+      <link>https://aahrens1.github.io/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/license/</guid>
+      <guid>https://aahrens1.github.io/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
   </description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://aahrens1.github.io/mysite_deploy/courses/</link>
+      <link>https://aahrens1.github.io/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/courses/</guid>
+      <guid>https://aahrens1.github.io/courses/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Post-Doctoral Researcher and Senior Data Scientist at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the ESRI, Dublin. I hold a PhD in Economics from Heriot-Watt University and an MSc in Economics from University of Edinburgh.
 Research     More recently, I research the labour market integration refugees in Switzerland.</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://aahrens1.github.io/mysite_deploy/software/</link>
+      <link>https://aahrens1.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/software/</guid>
+      <guid>https://aahrens1.github.io/software/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  I work on statistical software packages. These are desc
 Research     More recently, I research the labour market integration refugees in Switzerland.
 Policy     I have worked on policy projects for governmental organisations in UK, Ireland and Switzerland. Recently, I have evaluated a prioritisation policy for the Swiss Economic Ministry. I have evaluated the impact of rent regulation in Ireland.</description>
@@ -111,10 +111,10 @@ Policy     I have worked on policy projects for governmental organisations in UK
     
     <item>
       <title>Why apéro?</title>
-      <link>https://aahrens1.github.io/mysite_deploy/main/</link>
+      <link>https://aahrens1.github.io/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aahrens1.github.io/mysite_deploy/main/</guid>
+      <guid>https://aahrens1.github.io/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     
