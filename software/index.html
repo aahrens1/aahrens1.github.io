@@ -45,7 +45,7 @@
   <meta itemprop="name" content="Software">
 <meta itemprop="description" content="Software">
 
-<meta itemprop="wordCount" content="89">
+<meta itemprop="wordCount" content="140">
 <meta itemprop="keywords" content="" />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -78,12 +78,22 @@
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 active" href="/software/" title="Software Portfolio">Software</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/research/" title="Research">Research</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/research/" title="Research">Research</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/policy/" title="Policy">Policy</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/ongoing/" title="Ongoing">Ongoing</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/software/" title="Software">Software</a>
       
         
         
@@ -104,31 +114,47 @@
   line-height:1.4;
 }
 </style>
-<p>I work on statistical software packages. These are desc</p>
 
 
 
 
-<h2 id="research">Research
-  <a href="#research"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<h2 id="stata-programs">Stata Programs
+  <a href="#stata-programs"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
       <path d="M0 0h24v24H0z" fill="currentColor"></path>
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h2>
-<p>More recently, I research the labour market integration refugees in Switzerland.</p>
+<ul>
+<li>
+<p>The package <strong>lassopack</strong> implements lasso (
+<a href="http://www.jstor.org/stable/2346178" target="_blank" rel="noopener">Tibshirani 1996</a>),
+square-root lasso (
+<a href="https://doi.org/10.1093/biomet/asr043" target="_blank" rel="noopener">Belloni et al. 2011</a>),
+elastic net (
+<a href="https://doi.org/10.1214/009053607000000127" target="_blank" rel="noopener">Zou &amp; Hastie 2005</a>),
+ridge regression (
+<a href="https://doi.org/10.1080/00401706.1970.10488635" target="_blank" rel="noopener">Hoerl &amp; Kennard 1970</a>),
+adaptive lasso (
+<a href="https://doi.org/10.1198/016214506000000735" target="_blank" rel="noopener">Zou 2006</a>) and post-estimation OLS.
+<strong>lassopack</strong> also supports logistic lasso.</p>
+</li>
+<li>
+<p><strong>pdslasso</strong> offers methods to facilitate causal inference in structural models. The package allows to select control variables and/or instruments from a large set of variables in a setting where the researcher is interested in estimating the causal impact of one or more (possibly endogenous) causal variables of interest.</p>
+</li>
+<li>
+<p><strong>pystacked</strong> implements stacking regression (
+<a href="https://doi.org/10.1016/S0893-6080%2805%2980023-1" target="_blank" rel="noopener">Wolpert, 1992</a>) via 
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener">scikit-learn</a>&rsquo;s
 
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingRegressor.html" target="_blank" rel="noopener">sklearn.ensemble.StackingRegressor</a> and
 
-
-
-<h2 id="policy">Policy
-  <a href="#policy"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h2>
-<p>I have worked on policy projects for governmental organisations in UK, Ireland and Switzerland. Recently, I have evaluated a prioritisation policy for the Swiss Economic Ministry. I have evaluated the impact of rent regulation in Ireland.
-From x to y, I compiled and analysed data on energy statistics for the 
-<a href="https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html" target="_blank" rel="noopener">Statistical Review of World Energy</a>, a free resource for international energy data.</p>
+<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html" target="_blank" rel="noopener">sklearn.ensemble.StackingClassifier</a>. Stacking is a
+way of combining predictions from multiple supervised machine learners (the &ldquo;base learners&rdquo;)
+into a final prediction to improve performance.</p>
+</li>
+</ul>
+<p>I maintain a separate website for these packages: 
+<a href="https://statalasso.github.io/" target="_blank" rel="noopener">↪statalasso.github.io/</a></p>
 
   </section>
 </main>

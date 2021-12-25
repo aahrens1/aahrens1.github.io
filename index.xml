@@ -59,8 +59,30 @@ The page you are reading is based on a markdown file- look in content/about/ to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aahrens1.github.io/about/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Post-Doctoral Researcher and Senior Data Scientist at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the ESRI, Dublin. I hold a PhD in Economics from Heriot-Watt University and an MSc in Economics from University of Edinburgh.
-Research     I have worked on empirical projects in a wide range of fields including housing markets, refugee integration.</description>
+      <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Senior Data Scientist and Post-Doctoral Researcher at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the Economic and Social Research Institute, Dublin. I hold an MSc in Economics from University of Edinburgh and a PhD in Economics from Heriot-Watt University.
+Research     I have worked on empirical projects in a wide range of fields including housing markets, urban economics and refugee integration.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://aahrens1.github.io/ongoing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aahrens1.github.io/ongoing/</guid>
+      <description>body{ font-size: 12pt; line-height:1.3; }  Ongoing Projects     Monopsony at Work? The Short- and Long-run Effects of Labor Restrictions on Refugees&#39; Economic Integration
+Wth Andreas Beerli, Selina Kurer, Dominik Hangartner, Michael Siegenthaler.
+Abtract How do policies that restrict refugees&#39; labor market access affect their economic integration? This paper analyzes the employment, wage, and job mobility effects of labor market policies regulating whether, where, and for whom refugees are allowed to work.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://aahrens1.github.io/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aahrens1.github.io/policy/</guid>
+      <description>body{ font-size: 14pt; line-height:1.3; }  Policy Reports     Wirkungsevaluation der Stellenmeldepflicht
+With Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartner, Joëlle Pianzola, 2021.
+Abtract This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration. The study covers the JVNO with an 8% unemployment level threshold from July 2018 to December 2019. The impact is measured using the statistical methods of difference-in-differences (DID) analysis and regression discontinuity design (RDD) on register data (specifically the AVAM employment and labour market statistics system, the ASAL unemployment insurance payment system and the ZEMIS central migration information system).</description>
     </item>
     
     <item>
@@ -69,13 +91,9 @@ Research     I have worked on empirical projects in a wide range of fields inclu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aahrens1.github.io/research/</guid>
-      <description>body{ font-size: 13pt; line-height:1.3; }  Selected Publications     For a full list, see Google Scholar
-Current Working Papers     Monopsony at Work
-pystacked:
-ddml:
-Policy Papers     Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartner, Achim Ahrens, Joëlle Pianzola, 2021. Wirkungsevaluation der Stellenmeldepflicht
- Download
- This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration.</description>
+      <description>body{ font-size: 14pt; line-height:1.3; }  Selected Publications     Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
+O’Toole, C., Martinez-Cillero, M. and Ahrens, A., 2021. Price regulation, inflation, and nominal rigidity in housing rents. Journal of Housing Economics, 52, p.101769. ↪Link
+Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection and prediction with regularized regression in Stata.</description>
     </item>
     
     <item>
@@ -94,8 +112,8 @@ Policy Papers     Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartne
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aahrens1.github.io/courses/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Post-Doctoral Researcher and Senior Data Scientist at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the ESRI, Dublin. I hold a PhD in Economics from Heriot-Watt University and an MSc in Economics from University of Edinburgh.
-Research     More recently, I research the labour market integration refugees in Switzerland.</description>
+      <description>body{ font-size: 14pt; line-height:1.4; }  Workshops     I give workshops on causal inference &amp;amp; machine learning in R and Stata:
+ St Andrews, August 2022 (planned) Chiang Mai University, Thailand, February 2022 (with Mark Schaffer, planned) Machine Learning with Stata 16, Universidad Internacional de Andalucía, October 2020 An Introduction to Machine Learning with Stata, one-day workshop as part of the 2019 Italian Stata Users Group meeting, ↪Introductory slides Irish Postgraduate and Early Career Economics Workshop 2019 at NUI Galway, 6-7th June 2019 ↪Workshop page  Teaching      2021-2022, Teaching Assistant, MET4: Statistical learning, ETH Zürich 2019, Teaching Assistant, MET2: Quantitative Methods, ETH Zürich 2016, Instructor, Energy Markets and Policy, University of Stirling, UK 2012-15, Teaching Assistant, Econometrics 1 &amp;amp; Econometrics 2 (MSc), University of Edinburgh 2013/14, Teaching Assistant, Economics 2, University of Edinburgh  </description>
     </item>
     
     <item>
@@ -104,9 +122,8 @@ Research     More recently, I research the labour market integration refugees in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aahrens1.github.io/software/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  I work on statistical software packages. These are desc
-Research     More recently, I research the labour market integration refugees in Switzerland.
-Policy     I have worked on policy projects for governmental organisations in UK, Ireland and Switzerland. Recently, I have evaluated a prioritisation policy for the Swiss Economic Ministry. I have evaluated the impact of rent regulation in Ireland.</description>
+      <description>body{ font-size: 14pt; line-height:1.4; }  Stata Programs       The package lassopack implements lasso ( Tibshirani 1996), square-root lasso ( Belloni et al. 2011), elastic net ( Zou &amp;amp; Hastie 2005), ridge regression ( Hoerl &amp;amp; Kennard 1970), adaptive lasso ( Zou 2006) and post-estimation OLS. lassopack also supports logistic lasso.
+  pdslasso offers methods to facilitate causal inference in structural models. The package allows to select control variables and/or instruments from a large set of variables in a setting where the researcher is interested in estimating the causal impact of one or more (possibly endogenous) causal variables of interest.</description>
     </item>
     
     <item>
