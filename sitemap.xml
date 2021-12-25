@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.achimahrens.de/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>www.achimahrens.de/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>www.achimahrens.de/form/</loc>
+    <loc>/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>www.achimahrens.de/elements/</loc>
+    <loc>/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>www.achimahrens.de/header/</loc>
+    <loc>/header/</loc>
   </url><url>
-    <loc>www.achimahrens.de/sidebar/</loc>
+    <loc>/sidebar/</loc>
   </url><url>
-    <loc>www.achimahrens.de/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>www.achimahrens.de/ongoing/</loc>
+    <loc>/ongoing/</loc>
   </url><url>
-    <loc>www.achimahrens.de/policy/</loc>
+    <loc>/policy/</loc>
   </url><url>
-    <loc>www.achimahrens.de/research/</loc>
+    <loc>/research/</loc>
   </url><url>
-    <loc>www.achimahrens.de/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>www.achimahrens.de/license/</loc>
+    <loc>/license/</loc>
   </url><url>
-    <loc>www.achimahrens.de/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>www.achimahrens.de/courses/</loc>
+    <loc>/courses/</loc>
   </url><url>
-    <loc>www.achimahrens.de/software/</loc>
+    <loc>/software/</loc>
   </url><url>
-    <loc>www.achimahrens.de/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>www.achimahrens.de/main/</loc>
+    <loc>/main/</loc>
   </url>
 </urlset>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achim Ahrens</title>
-    <link>www.achimahrens.de/</link>
+    <link>/</link>
     <description>Recent content on Achim Ahrens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="www.achimahrens.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>www.achimahrens.de/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>www.achimahrens.de/contact/</guid>
+      <guid>/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>www.achimahrens.de/elements/</link>
+      <link>/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>www.achimahrens.de/elements/</guid>
+      <guid>/elements/</guid>
       <description>test Font Sizes   A A A A A A A A   6rem
 (96px) 5rem
 (80px) 3rem
@@ -36,39 +36,39 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title></title>
-      <link>www.achimahrens.de/header/</link>
+      <link>/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/header/</guid>
+      <guid>/header/</guid>
       <description>I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. 🇫🇷
 The page you are reading is based on a markdown file- look in content/about/ to edit. There, look inside the header, main, and sidebar folders to get started building your own &amp;ldquo;about&amp;rdquo; page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>www.achimahrens.de/sidebar/</link>
+      <link>/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/sidebar/</guid>
+      <guid>/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>www.achimahrens.de/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/about/</guid>
+      <guid>/about/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Senior Data Scientist and Post-Doctoral Researcher at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the Economic and Social Research Institute, Dublin. I hold an MSc in Economics from University of Edinburgh and a PhD in Economics from Heriot-Watt University.
 Research     I have worked on empirical projects in a wide range of fields including housing markets, urban economics and energy economics.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>www.achimahrens.de/ongoing/</link>
+      <link>/ongoing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/ongoing/</guid>
+      <guid>/ongoing/</guid>
       <description>body{ font-size: 12pt; line-height:1.3; }  Ongoing Projects     Monopsony at Work? The Short- and Long-run Effects of Labor Restrictions on Refugees&#39; Economic Integration
 Wth Andreas Beerli, Selina Kurer, Dominik Hangartner, Michael Siegenthaler.
 Abtract How do policies that restrict refugees&#39; labor market access affect their economic integration? This paper analyzes the employment, wage, and job mobility effects of labor market policies regulating whether, where, and for whom refugees are allowed to work.</description>
@@ -76,10 +76,10 @@ Abtract How do policies that restrict refugees&#39; labor market access affect t
     
     <item>
       <title>About me</title>
-      <link>www.achimahrens.de/policy/</link>
+      <link>/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/policy/</guid>
+      <guid>/policy/</guid>
       <description>body{ font-size: 14pt; line-height:1.3; }  Policy Reports     Wirkungsevaluation der Stellenmeldepflicht
 With Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartner, Joëlle Pianzola, 2021.
 Abtract This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration. The study covers the JVNO with an 8% unemployment level threshold from July 2018 to December 2019. The impact is measured using the statistical methods of difference-in-differences (DID) analysis and regression discontinuity design (RDD) on register data (specifically the AVAM employment and labour market statistics system, the ASAL unemployment insurance payment system and the ZEMIS central migration information system).</description>
@@ -87,10 +87,10 @@ Abtract This report presents the conclusions of a study on the effects of the jo
     
     <item>
       <title>About me</title>
-      <link>www.achimahrens.de/research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/research/</guid>
+      <guid>/research/</guid>
       <description>body{ font-size: 14pt; line-height:1.3; }  Selected Publications     Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
 O’Toole, C., Martinez-Cillero, M. and Ahrens, A., 2021. Price regulation, inflation, and nominal rigidity in housing rents. Journal of Housing Economics, 52, p.101769. ↪Link
 Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection and prediction with regularized regression in Stata.</description>
@@ -98,40 +98,40 @@ Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection an
     
     <item>
       <title>License</title>
-      <link>www.achimahrens.de/license/</link>
+      <link>/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/license/</guid>
+      <guid>/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
   </description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>www.achimahrens.de/courses/</link>
+      <link>/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/courses/</guid>
+      <guid>/courses/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  Workshops     I give workshops on causal inference &amp;amp; machine learning in R and Stata:
  St Andrews, August 2022 (planned) Chiang Mai University, Thailand, February 2022 (with Mark Schaffer, planned) Machine Learning with Stata 16, Universidad Internacional de Andalucía, October 2020 An Introduction to Machine Learning with Stata, one-day workshop as part of the 2019 Italian Stata Users Group meeting, ↪Introductory slides Irish Postgraduate and Early Career Economics Workshop 2019 at NUI Galway, 6-7th June 2019 ↪Workshop page  Teaching      2021-2022, Teaching Assistant, MET4: Statistical learning, ETH Zürich 2019, Teaching Assistant, MET2: Quantitative Methods, ETH Zürich 2016, Instructor, Energy Markets and Policy, University of Stirling, UK 2012-15, Teaching Assistant, Econometrics 1 &amp;amp; Econometrics 2 (MSc), University of Edinburgh 2013/14, Teaching Assistant, Economics 2, University of Edinburgh  </description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>www.achimahrens.de/software/</link>
+      <link>/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/software/</guid>
+      <guid>/software/</guid>
       <description>body{ font-size: 14pt; line-height:1.4; }  Stata Programs       The package lassopack implements lasso ( Tibshirani 1996), square-root lasso ( Belloni et al. 2011), elastic net ( Zou &amp;amp; Hastie 2005), ridge regression ( Hoerl &amp;amp; Kennard 1970), adaptive lasso ( Zou 2006) and post-estimation OLS. lassopack also supports logistic lasso.
   pdslasso offers methods to facilitate causal inference in structural models. The package allows to select control variables and/or instruments from a large set of variables in a setting where the researcher is interested in estimating the causal impact of one or more (possibly endogenous) causal variables of interest.</description>
     </item>
     
     <item>
       <title>Why apéro?</title>
-      <link>www.achimahrens.de/main/</link>
+      <link>/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.achimahrens.de/main/</guid>
+      <guid>/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     
