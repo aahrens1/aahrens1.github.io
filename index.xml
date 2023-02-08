@@ -23,7 +23,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
       <guid>https://achimahrens.de/elements/</guid>
-      <description>test Font Sizes   A A A A A A A A   6rem
+      <description>test Font Sizes A A A A A A A A 6rem
 (96px) 5rem
 (80px) 3rem
 (48px) 2.25rem
@@ -31,7 +31,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
 (24px) 1.25rem
 (20px) 1rem
 (16px) .875rem
-(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     
     <item>
@@ -59,19 +59,8 @@ The page you are reading is based on a markdown file- look in content/about/ to 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/about/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  About me     I am a Senior Data Scientist and Post-Doctoral Researcher at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the Economic and Social Research Institute, Dublin. I hold an MSc in Economics from University of Edinburgh and a PhD in Economics from Heriot-Watt University.
-Research     I have worked on empirical projects in a wide range of fields including housing markets, urban economics and energy economics.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://achimahrens.de/ongoing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://achimahrens.de/ongoing/</guid>
-      <description>body{ font-size: 12pt; line-height:1.3; }  Ongoing Projects     Monopsony at Work? The Short- and Long-run Effects of Labor Restrictions on Refugees&#39; Economic Integration
-Wth Andreas Beerli, Selina Kurer, Dominik Hangartner, Michael Siegenthaler.
-Abtract How do policies that restrict refugees&#39; labor market access affect their economic integration? This paper analyzes the employment, wage, and job mobility effects of labor market policies regulating whether, where, and for whom refugees are allowed to work.</description>
+      <description>About me I am a Senior Data Scientist and Post-Doctoral Researcher at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was a Post-Doc at the Economic and Social Research Institute, Dublin. I hold an MSc in Economics from University of Edinburgh and a PhD in Economics from Heriot-Watt University.
+Research I have worked on empirical projects in a wide range of fields including housing markets, urban economics and energy economics.</description>
     </item>
     
     <item>
@@ -80,9 +69,9 @@ Abtract How do policies that restrict refugees&#39; labor market access affect t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/policy/</guid>
-      <description>body{ font-size: 14pt; line-height:1.3; }  Policy Reports     Impact evaluation of the job vacancy notice obligation I
+      <description>Policy Reports Impact evaluation of the job vacancy notice obligation I
 With Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartner, Joëlle Pianzola, 2021.
-Abtract This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration. The study covers the JVNO with an 8% unemployment level threshold from July 2018 to December 2019.</description>
+Abtract This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration. The study covers the JVNO with an 8% unemployment level threshold from July 2018 to December 2019. The impact is measured using the statistical methods of difference-in-differences (DID) analysis and regression discontinuity design (RDD) on register data (specifically the AVAM employment and labour market statistics system, the ASAL unemployment insurance payment system and the ZEMIS central migration information system).</description>
     </item>
     
     <item>
@@ -91,7 +80,7 @@ Abtract This report presents the conclusions of a study on the effects of the jo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/research/</guid>
-      <description>body{ font-size: 14pt; line-height:1.3; }  Selected Publications     Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
+      <description>Selected Publications Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
 O’Toole, C., Martinez-Cillero, M. and Ahrens, A., 2021. Price regulation, inflation, and nominal rigidity in housing rents. Journal of Housing Economics, 52, p.101769. ↪Link
 Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection and prediction with regularized regression in Stata.</description>
     </item>
@@ -102,18 +91,7 @@ Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection an
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://achimahrens.de/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://achimahrens.de/courses/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  Workshops     I give workshops on causal inference &amp;amp; machine learning in R and Stata:
- St Andrews, August 2022 (planned) Chiang Mai University, Thailand, February 2022 (with Mark Schaffer, planned) Machine Learning with Stata 16, Universidad Internacional de Andalucía, October 2020 An Introduction to Machine Learning with Stata, one-day workshop as part of the 2019 Italian Stata Users Group meeting, ↪Introductory slides Irish Postgraduate and Early Career Economics Workshop 2019 at NUI Galway, 6-7th June 2019 ↪Workshop page  Teaching      2021-2022, Teaching Assistant, MET4: Statistical learning, ETH Zürich 2019, Teaching Assistant, MET2: Quantitative Methods, ETH Zürich 2016, Instructor, Energy Markets and Policy, University of Stirling, UK 2012-15, Teaching Assistant, Econometrics 1 &amp;amp; Econometrics 2 (MSc), University of Edinburgh 2013/14, Teaching Assistant, Economics 2, University of Edinburgh  </description>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
     <item>
@@ -122,8 +100,24 @@ Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection an
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/software/</guid>
-      <description>body{ font-size: 14pt; line-height:1.4; }  Stata Programs       The package lassopack implements lasso ( Tibshirani 1996), square-root lasso ( Belloni et al. 2011), elastic net ( Zou &amp;amp; Hastie 2005), ridge regression ( Hoerl &amp;amp; Kennard 1970), adaptive lasso ( Zou 2006) and post-estimation OLS. lassopack also supports logistic lasso.
-  pdslasso offers methods to facilitate causal inference in structural models. The package allows to select control variables and/or instruments from a large set of variables in a setting where the researcher is interested in estimating the causal impact of one or more (possibly endogenous) causal variables of interest.</description>
+      <description>Stata Programs The package lassopack implements lasso ( Tibshirani 1996), square-root lasso ( Belloni et al. 2011), elastic net ( Zou &amp;amp; Hastie 2005), ridge regression ( Hoerl &amp;amp; Kennard 1970), adaptive lasso ( Zou 2006) and post-estimation OLS. lassopack also supports logistic lasso.
+pdslasso offers methods to facilitate causal inference in structural models. The package allows to select control variables and/or instruments from a large set of variables in a setting where the researcher is interested in estimating the causal impact of one or more (possibly endogenous) causal variables of interest.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://achimahrens.de/talking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://achimahrens.de/talking/</guid>
+      <description> Recent talks 11/22 Stata Conference (Bern, CH) 10/22 AI+Economics Workshop (ETH Zürich) 9/22 European Association of Labour Economists (Padova, Italy)
+8/22 European Economic Association (Milan, Italy)
+6/22 Barcelona School of Economics (Spain)
+6/22 Workshop Job Search and the Labor Market (CH)
+5/22 University of Bath seminar
+3/22 Applied ML Days (ETH Zürich).
+Workshops I give workshops on causal inference &amp;amp; machine learning in R and Stata:
+St Andrews, August 2022 Chiang Mai University, Thailand, February 2022 (with Mark Schaffer) Machine Learning with Stata 16, Universidad Internacional de Andalucía, October 2020 An Introduction to Machine Learning with Stata, one-day workshop as part of the 2019 Italian Stata Users Group meeting, ↪Introductory slides Irish Postgraduate and Early Career Economics Workshop 2019 at NUI Galway, 6-7th June 2019 ↪Workshop page Teaching Since 2021, Teaching Assistant, MET4: Statistical learning, ETH Zürich 2019, Teaching Assistant, MET2: Quantitative Methods, ETH Zürich 2016, Instructor, Energy Markets and Policy, University of Stirling, UK 2012-15, Teaching Assistant, Econometrics 1 &amp;amp; Econometrics 2 (MSc), University of Edinburgh 2013/14, Teaching Assistant, Economics 2, University of Edinburgh </description>
     </item>
     
     <item>
@@ -133,6 +127,17 @@ Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection an
       
       <guid>https://achimahrens.de/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>Work in progress</title>
+      <link>https://achimahrens.de/ongoing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://achimahrens.de/ongoing/</guid>
+      <description>Working papers The Labor Market Effects of Restricting Refugees&amp;rsquo; Employment Opportunities
+With Andreas Beerli, Selina Kurer, Dominik Hangartner, Michael Siegenthaler.
+Abtract Refugees, and immigrants more generally, often do not have access to all jobs in the labor market. We argue that restrictions on employment opportunities help explain why immigrants have lower employment and wages than native citizens. To test this hypothesis, we leverage refugees&#39; exogenous geographic assignment in Switzerland, within-canton variation in labor market restrictions, and linked register data 1999-2016.</description>
     </item>
     
   </channel>

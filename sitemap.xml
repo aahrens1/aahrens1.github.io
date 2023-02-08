@@ -20,8 +20,6 @@
   </url><url>
     <loc>https://achimahrens.de/about/</loc>
   </url><url>
-    <loc>https://achimahrens.de/ongoing/</loc>
-  </url><url>
     <loc>https://achimahrens.de/policy/</loc>
   </url><url>
     <loc>https://achimahrens.de/research/</loc>
@@ -32,12 +30,14 @@
   </url><url>
     <loc>https://achimahrens.de/series/</loc>
   </url><url>
-    <loc>https://achimahrens.de/courses/</loc>
-  </url><url>
     <loc>https://achimahrens.de/software/</loc>
+  </url><url>
+    <loc>https://achimahrens.de/talking/</loc>
   </url><url>
     <loc>https://achimahrens.de/tags/</loc>
   </url><url>
     <loc>https://achimahrens.de/main/</loc>
+  </url><url>
+    <loc>https://achimahrens.de/ongoing/</loc>
   </url>
 </urlset>
