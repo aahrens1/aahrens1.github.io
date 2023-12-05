@@ -69,9 +69,9 @@ Research I have worked on empirical projects in a wide range of fields including
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/policy/</guid>
-      <description>Policy Reports Impact evaluation of the job vacancy notice obligation I
-With Rafael Lalive, Patrick Arni, Tobias Lehmann, Dominik Hangartner, Joëlle Pianzola, 2021.
-Abtract This report presents the conclusions of a study on the effects of the job vacancy notice obligation (JVNO) on the labour market and immigration. The study covers the JVNO with an 8% unemployment level threshold from July 2018 to December 2019. The impact is measured using the statistical methods of difference-in-differences (DID) analysis and regression discontinuity design (RDD) on register data (specifically the AVAM employment and labour market statistics system, the ASAL unemployment insurance payment system and the ZEMIS central migration information system).</description>
+      <description>Policy Reports Evaluating the Effects of Cash-Based Interventions on the Integration of Vulnerable Venezuelan Migrants in Peru: Key Findings Using a Multidimensional Approach to Measure Migrant Integration Outcomes.
+With Monica Aguilar Folch, Ace Dela Cruz, Jobst Koehler, Morgane Reina and Karla Sulca (IOM) and Dominik Hangartner, Marine Casalis, Rodrigo Sanchez (ETH Zurich).
+Abtract This study report analyzes the effect of the multi-purpose cash-based intervention (CBI) program implemented by the International Organization for Migration (IOM) in Peru on migrants’ psychological, economic, political, social, linguistic, and navigational integration, as well as in other outcome variables.</description>
     </item>
     
     <item>
@@ -80,9 +80,10 @@ Abtract This report presents the conclusions of a study on the effects of the jo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/research/</guid>
-      <description>Selected Publications Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
-O’Toole, C., Martinez-Cillero, M. and Ahrens, A., 2021. Price regulation, inflation, and nominal rigidity in housing rents. Journal of Housing Economics, 52, p.101769. ↪Link
-Ahrens, A., Hansen, C.B. and Schaffer, M.E., 2020. lassopack: Model selection and prediction with regularized regression in Stata.</description>
+      <description>Selected Publications Ahrens, A., Hansen, C.B., Schaffer, M.E., Wiemann, T., Forthcoming. ddml: Double/debiased machine learning in Stata. Stata Journal. ↪arxiv version
+Ahrens, A., Hansen, C.B., Schaffer, M.E., Forthcoming, pystacked: Stacking generalization and machine learning in Stata. Stata Journal. ↪arxiv version
+Ahrens, A. and Lyons, S., 2021. Do rising rents lead to longer commutes? A gravity model of commuting flows in Ireland. Urban Studies, 58(2), pp.264-279. ↪Link
+O’Toole, C., Martinez-Cillero, M.</description>
     </item>
     
     <item>
@@ -110,11 +111,10 @@ pdslasso offers methods to facilitate causal inference in structural models. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/talking/</guid>
-      <description>Recent talks 06/23 International Association for Applied Econometrics (Oslo, Norway) 06/23 Workshop Machine Learning in Program Evaluation, High-dimensionality and Visualization Techniques (LISER, Luxembourg) 05/23 Society of Labor Economists (Philadelhia, US) 03/23 University of Bern seminar (Sociology)
+      <description>Recent talks 08/23 EEA-ESEM (Barcelona, Spain) 06/23 International Association for Applied Econometrics (Oslo, Norway) 06/23 Workshop Machine Learning in Program Evaluation, High-dimensionality and Visualization Techniques (LISER, Luxembourg) 05/23 Society of Labor Economists (Philadelhia, US) 03/23 University of Bern seminar (Sociology)
 11/22 Stata Conference (Bern, CH) 10/22 AI+Economics Workshop (ETH Zürich) 9/22 European Association of Labour Economists (Padova, Italy)
 8/22 European Economic Association (Milan, Italy)
-6/22 Barcelona School of Economics (Spain)
-6/22 Workshop Job Search and the Labor Market (CH)</description>
+6/22 Barcelona School of Economics (Spain)</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@ pdslasso offers methods to facilitate causal inference in structural models. The
       <guid>https://achimahrens.de/ongoing/</guid>
       <description>Working papers The Labor Market Effects of Restricting Refugees&amp;rsquo; Employment Opportunities
 With Andreas Beerli, Selina Kurer, Dominik Hangartner, Michael Siegenthaler
-Abtract: &amp;nbsp Refugees, and immigrants more generally, often do not have access to all jobs in the labor market. We argue that restrictions on employment opportunities help explain why immigrants have lower employment and wages than native citizens. To test this hypothesis, we leverage refugees&#39; exogenous geographic assignment in Switzerland, within-canton variation in labor market restrictions, and linked register data 1999-2016.</description>
+Abstract: &amp;nbsp This paper investigates whether employment restrictions contribute to refugees having poorer labor market outcomes than citizens. Utilizing linked register data from Switzerland and within-canton policy variation between 1999-2015, we find substantial negative effects on employment and earnings when refugees are barred from working upon arrival, restricted from specific sectors or regions, or face resident prioritization.</description>
     </item>
     
   </channel>
