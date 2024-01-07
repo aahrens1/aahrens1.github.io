@@ -26,6 +26,8 @@
   </url><url>
     <loc>https://achimahrens.de/categories/</loc>
   </url><url>
+    <loc>https://achimahrens.de/ongoing/</loc>
+  </url><url>
     <loc>https://achimahrens.de/license/</loc>
   </url><url>
     <loc>https://achimahrens.de/series/</loc>
@@ -37,7 +39,5 @@
     <loc>https://achimahrens.de/tags/</loc>
   </url><url>
     <loc>https://achimahrens.de/main/</loc>
-  </url><url>
-    <loc>https://achimahrens.de/ongoing/</loc>
   </url>
 </urlset>

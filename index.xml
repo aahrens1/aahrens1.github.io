@@ -87,6 +87,17 @@ O’Toole, C., Martinez-Cillero, M.</description>
     </item>
     
     <item>
+      <title>Current projects</title>
+      <link>https://achimahrens.de/ongoing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://achimahrens.de/ongoing/</guid>
+      <description>Working papers Model averaging and double machine learning
+With Christian B Hansen, Mark E Schaffer, Thomas Wiemann
+Abstract: &amp;nbsp This paper discusses pairing double/debiased machine learning (DDML) with stacking, a model averaging method for combining multiple candidate learners, to estimate structural parameters. We introduce two new stacking approaches for DDML: short-stacking exploits the cross-fitting step of DDML to substantially reduce the computational burden and pooled stacking enforces common stacking weights over cross-fitting folds.</description>
+    </item>
+    
+    <item>
       <title>License</title>
       <link>https://achimahrens.de/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,17 +132,6 @@ pdslasso offers methods to facilitate causal inference in structural models. The
       
       <guid>https://achimahrens.de/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    
-    <item>
-      <title>Work in progress</title>
-      <link>https://achimahrens.de/ongoing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://achimahrens.de/ongoing/</guid>
-      <description>Working papers Model averaging and double machine learning
-With Christian B Hansen, Mark E Schaffer, Thomas Wiemann
-Abstract: &amp;nbsp This paper discusses pairing double/debiased machine learning (DDML) with stacking, a model averaging method for combining multiple candidate learners, to estimate structural parameters. We introduce two new stacking approaches for DDML: short-stacking exploits the cross-fitting step of DDML to substantially reduce the computational burden and pooled stacking enforces common stacking weights over cross-fitting folds.</description>
     </item>
     
   </channel>
