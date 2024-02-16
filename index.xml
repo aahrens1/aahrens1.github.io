@@ -93,7 +93,7 @@ O’Toole, C., Martinez-Cillero, M.</description>
       
       <guid>https://achimahrens.de/ongoing/</guid>
       <description>Working papers Model averaging and double machine learning
-With Christian B Hansen, Mark E Schaffer, Thomas Wiemann
+With Christian B Hansen, Mark E Schaffer, Thomas Wiemann (Under review)
 Abstract: &amp;nbsp This paper discusses pairing double/debiased machine learning (DDML) with stacking, a model averaging method for combining multiple candidate learners, to estimate structural parameters. We introduce two new stacking approaches for DDML: short-stacking exploits the cross-fitting step of DDML to substantially reduce the computational burden and pooled stacking enforces common stacking weights over cross-fitting folds.</description>
     </item>
     
@@ -122,7 +122,7 @@ pdslasso offers methods to facilitate causal inference in structural models. The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/talking/</guid>
-      <description>Recent talks 08/23 EEA-ESEM (Barcelona, Spain) 06/23 International Association for Applied Econometrics (Oslo, Norway) 06/23 Machine Learning in Program Evaluation, High-dimensionality and Visualization Techniques (LISER, Luxembourg) 05/23 Society of Labor Economists (Philadelhia, US) 03/23 University of Bern seminar (Sociology) 11/22 Stata Conference (Bern, CH) 10/22 AI+Economics Workshop (ETH Zürich) 9/22 European Association of Labour Economists (Padova, Italy) 8/22 European Economic Association (Milan, Italy) 6/22 Barcelona School of Economics (Spain) 6/22 Workshop Job Search and the Labor Market (CH) 5/22 University of Bath seminar 3/22 Applied ML Days (ETH Zürich) Workshops I give workshops on causal inference &amp;amp; machine learning in R and Stata:</description>
+      <description>Recent talks 07/24 Leibniz IOS Summer Academy (München, Germany, invited) 08/23 EEA-ESEM (Barcelona, Spain) 06/23 International Association for Applied Econometrics (Oslo, Norway) 06/23 Machine Learning in Program Evaluation, High-dimensionality and Visualization Techniques (LISER, Luxembourg) 05/23 Society of Labor Economists (Philadelhia, US) 03/23 University of Bern seminar (Sociology) 11/22 Stata Conference (Bern, CH) 10/22 AI+Economics Workshop (ETH Zürich) 9/22 European Association of Labour Economists (Padova, Italy) 8/22 European Economic Association (Milan, Italy) 6/22 Barcelona School of Economics (Spain) 6/22 Workshop Job Search and the Labor Market (CH) 5/22 University of Bath seminar 3/22 Applied ML Days (ETH Zürich) Workshops I give workshops on causal inference &amp;amp; machine learning in R and Stata:</description>
     </item>
     
     <item>
