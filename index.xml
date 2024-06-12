@@ -80,7 +80,7 @@ Abtract This study report analyzes the effect of the multi-purpose cash-based in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://achimahrens.de/research/</guid>
-      <description>Working papers Model averaging and double machine learning
+      <description>Working Papers Model averaging and double machine learning
 With Christian B Hansen, Mark E Schaffer, Thomas Wiemann (Journal of Applied Econometrics, R&amp;amp;R)
 Abstract: &amp;nbsp This paper discusses pairing double/debiased machine learning (DDML) with stacking, a model averaging method for combining multiple candidate learners, to estimate structural parameters. We introduce two new stacking approaches for DDML: short-stacking exploits the cross-fitting step of DDML to substantially reduce the computational burden and pooled stacking enforces common stacking weights over cross-fitting folds.</description>
     </item>
