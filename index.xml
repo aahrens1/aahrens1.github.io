@@ -60,11 +60,20 @@ The page you are reading is based on a markdown file- look in content/about/ to 
       
       <guid>https://achimahrens.de/about/</guid>
       <description>About me I am a Senior Researcher / Senior Data Scientist at the Public Policy Group, ETH Zurich, and Immigration Policy Lab (ETH/Stanford). Previously, I was at the Economic and Social Research Institute, Dublin. I hold an MSc in Economics from University of Edinburgh and a PhD in Economics from Heriot-Watt University.
-Research I have worked on empirical projects in a wide range of fields including housing markets, urban economics and energy economics.</description>
+Research I have worked on empirical projects in a wide range of fields including housing markets, labour economics and migration.</description>
     </item>
     
     <item>
-      <title>About me</title>
+      <title>License</title>
+      <link>https://achimahrens.de/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://achimahrens.de/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
       <link>https://achimahrens.de/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -75,7 +84,7 @@ Abtract This study report analyzes the effect of the multi-purpose cash-based in
     </item>
     
     <item>
-      <title>About me</title>
+      <title>Research</title>
       <link>https://achimahrens.de/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,15 +92,6 @@ Abtract This study report analyzes the effect of the multi-purpose cash-based in
       <description>Working Papers Model averaging and double machine learning
 With Christian B Hansen, Mark E Schaffer, Thomas Wiemann (Journal of Applied Econometrics, R&amp;amp;R)
 Abstract: &amp;nbsp This paper discusses pairing double/debiased machine learning (DDML) with stacking, a model averaging method for combining multiple candidate learners, to estimate structural parameters. We introduce two new stacking approaches for DDML: short-stacking exploits the cross-fitting step of DDML to substantially reduce the computational burden and pooled stacking enforces common stacking weights over cross-fitting folds.</description>
-    </item>
-    
-    <item>
-      <title>License</title>
-      <link>https://achimahrens.de/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://achimahrens.de/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ pdslasso offers methods to facilitate causal inference in structural models. The
     </item>
     
     <item>
-      <title>Software</title>
+      <title>Talking</title>
       <link>https://achimahrens.de/talking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
